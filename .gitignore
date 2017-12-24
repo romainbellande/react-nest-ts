@@ -1,0 +1,9 @@
+/node_modules
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+# misc
+npm-debug.log
